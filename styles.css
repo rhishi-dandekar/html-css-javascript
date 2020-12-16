@@ -1,0 +1,42 @@
+/* Font */
+
+
+
+/* root */
+
+
+
+/* heading */
+
+/* .body{
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 1vh;
+
+} */
+
+.tittle{
+    align-content: center;
+    text-align: center;
+}
+
+.input-box{
+    border-radius: 0.25rem;
+    width: 75%;
+    height: 10vh;
+    display: block;
+    margin: 1.5rem;
+    padding: 1.5rem;
+}
+
+.h3{
+    align-content: center;
+    text-align: center;
+}
+
+.btnclass{
+    align-content: center;
+    text-align: center;
+    color:black;
+    
+}
