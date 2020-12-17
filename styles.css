@@ -20,7 +20,7 @@
     text-align: center;
 }
 
-.input-box{
+#input-box{
     border-radius: 0.25rem;
     width: 75%;
     height: 10vh;
@@ -29,14 +29,30 @@
     padding: 1.5rem;
 }
 
-.h3{
+.h2{
     align-content: center;
     text-align: center;
+    font-size: large;
 }
 
 .btnclass{
     align-content: center;
     text-align: center;
+    font-size: large;
     color:black;
-    
+}
+
+.textDiv{
+    margin-left: 3.5vh;
+    align-items: center;
+}
+
+#textOutput{
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    width: 75%;
+    height: 10vh;
+    display: block;
+    margin: 1.5rem;
+    padding: 1.5rem;
 }
